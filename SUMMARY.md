@@ -7,6 +7,7 @@
        * [Что такое список, примеры, назначение.](chto_takoe_spisok,_primeri,_naznachenie.md)
        * [Что такое словарь, примеры, назначение.](chto_takoe_slovar,_primeri,_naznachenie.md)
        * [Что такое срез, примеры, назначение.](chto_takoe_srez,_primeri,_naznachenie.md)
+       * Что такое функция. Для чего нужны функции. Параметры функций.
    * [Сложные](slozhnie.md)
 * [Алгоритмы и структуры данных](chapter2.md)
 
