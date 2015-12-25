@@ -6,6 +6,7 @@
        * [Циклы. Варианты циклов, назначение.](tsikli_varianti_tsiklov,_naznachenie.md)
        * [Что такое список, примеры, назначение.](chto_takoe_spisok,_primeri,_naznachenie.md)
        * [Что такое словарь, примеры, назначение.](chto_takoe_slovar,_primeri,_naznachenie.md)
+       * Что такое срез, примеры, назначение.
    * [Сложные](slozhnie.md)
 * [Алгоритмы и структуры данных](chapter2.md)
 
