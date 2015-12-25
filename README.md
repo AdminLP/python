@@ -1,4 +1,5 @@
-My Awesome Book
+Вопросы
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+![](w3lCY3YQfxs.jpg)
+На «Удовлетворительно» ответить половину вопросов в билете.
