@@ -1,4 +1,4 @@
 Вопросы
 =======
-<img src="w3lCY3YQfxs.jpg" width="342" height="384">
 На «Удовлетворительно» ответить половину вопросов в билете.
+<img src="w3lCY3YQfxs.jpg" width="342" height="384">
