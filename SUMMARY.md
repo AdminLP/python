@@ -11,6 +11,7 @@
        * [Что такое класс. Для чего нужны классы.](chto_takoe_klass_dlya_chego_nuzhni_klassi.md)
        * [В чем разница между функцией  и классом (рассматривая одну функцию).](v_chem_raznitsa_mezhdu_funktsiei_i_klassom_rassmat.md)
        * [Как объединить несколько строк.](kak_obedinit_neskolko_strok.md)
+       * Рекурсия.
    * [Сложные](slozhnie.md)
 * [Алгоритмы и структуры данных](chapter2.md)
 
