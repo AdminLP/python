@@ -5,3 +5,5 @@
 
 ## Полезные ссылки
 https://www.codecademy.com/learn/python
+http://pythonworld.ru/
+http://pythontutor.ru/
