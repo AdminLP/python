@@ -16,5 +16,5 @@
    * [Сложные](slozhnie.md)
 * [Алгоритмы и структуры данных](chapter2.md)
 * [Практика](praktika.md)
-   * Простые
+   * [Простые](practic_prostie.md)
 
