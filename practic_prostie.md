@@ -19,3 +19,4 @@ str2 = str1.title()
 str1 = 'hello world'
 str2 = str1.replace(' ', '! ')+'!'
 ```
+Костыли, но работает xD
