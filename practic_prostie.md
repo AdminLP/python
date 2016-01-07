@@ -37,3 +37,6 @@ for number in range(1000):
     str1 += str(randint(1, 10)) + '+'
 str1 = str1[:-1]
 ```
+
+## 5
+
