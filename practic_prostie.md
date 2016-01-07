@@ -35,7 +35,7 @@ len(str1.split(' ')
 from random import randint
 str1 = ''
 for number in range(1000):
-    str1 += str(randint(1, 10)) + '+'
+    str1 += str(randint(1, 9)) + '+'
 str1 = str1[:-1]
 ```
 
