@@ -20,3 +20,7 @@ str1 = 'hello world'
 str2 = str1.replace(' ', '! ')+'!'
 ```
 Костыли, но работает xD
+
+
+## 3
+
