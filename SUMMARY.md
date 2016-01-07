@@ -15,4 +15,5 @@
        * [Что такое json. Для чего используют json.](chto_takoe_json_dlya_chego_ispolzuyut_json.md)
    * [Сложные](slozhnie.md)
 * [Алгоритмы и структуры данных](chapter2.md)
+* Практика
 
