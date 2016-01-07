@@ -26,3 +26,6 @@ str2 = str1.replace(' ', '! ')+'!'
 str1 = 'hello world'
 len(str1.split(' ')
 ```
+
+## 4
+
