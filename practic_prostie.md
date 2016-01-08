@@ -68,3 +68,14 @@ print(counter)
 def reverse_integer(number):
     return int(str(number)[::-1])
 ```
+
+## 8
+
+Есть список чисел. Получить список с числами в обратном порядке.
+```
+def reverse_integer(lst1):
+    lst2 = []
+    for number in lst1:
+        lst2.append(int(str(number)[::-1]))
+    return lst2
+```
