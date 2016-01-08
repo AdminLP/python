@@ -94,7 +94,7 @@ lst_extend = lst1+lst2
 ```
 или
 ```
-def listmerge(lst1, lst2):
+def list_merge(lst1, lst2):
     for lst in lst2:
         lst1.append(lst)
     return lst1
