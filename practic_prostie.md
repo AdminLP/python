@@ -49,6 +49,7 @@ print(max(int_lst))
 ```
 
 ## 6
+
 Есть список чисел. Нужно посчитать количество четных.
 ```
 int_lst = [1, 2, 6, 8, 3, 5]
@@ -58,4 +59,12 @@ for number in int_lst:
         counter += 1
 print(counter)
 
+```
+
+## 7
+
+Есть число. Нужно переставить цифры в обратном порядке.
+```
+def reverse_integer(number):
+    return int(str(number)[::-1])
 ```
