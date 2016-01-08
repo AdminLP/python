@@ -79,3 +79,23 @@ def reverse_integer(lst1):
         lst2.append(int(str(number)[::-1]))
     return lst2
 ```
+
+## 9
+
+Описать словарем себя.
+
+## 10
+
+Есть 2 списка. Нужно их объединить. extend
+```
+lst1 = [1, 2, 3]
+lst2 = ['sadf', 'qwer']
+lst_extend = lst1+lst2
+```
+или
+```
+def listmerge(lst1, lst2):
+    for lst in lst2:
+        lst1.append(lst)
+    return lst1
+```
