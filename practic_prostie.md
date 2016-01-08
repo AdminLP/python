@@ -84,6 +84,14 @@ def reverse_integer(lst1):
 
 Описать словарем себя.
 
+```
+about_me = {'name': 'Василий', 'surname': 'Крючков', 'years': 19, 'sex': 'муж.'}
+```
+или
+```
+about_me = dict(name='Василий', surname='Крючков', years=19, sex='муж.')
+```
+
 ## 10
 
 Есть 2 списка. Нужно их объединить. extend
