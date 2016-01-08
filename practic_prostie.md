@@ -47,3 +47,15 @@ int_lst = [1, 2, 6, 8, 3, 5]
 int_lst.reverse()
 print(max(int_lst))
 ```
+
+## 6
+Есть список чисел. Нужно посчитать количество четных.
+```
+int_lst = [1, 2, 6, 8, 3, 5]
+counter = 0
+for number in int_lst:
+    if number % 2 == 0:
+        counter += 1
+print(counter)
+
+```
