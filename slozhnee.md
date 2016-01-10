@@ -3,19 +3,47 @@
 ##16
 Есть строка. Нужно получить новую строку, в которой после каждого слова, заканчивающегося на g, стоит знак «@».
 ```
-def Replacement(s):
+def replacement(s):
     return s.replace("g ", "g@ ")
 ```
 ##17
 Есть список чисел, нужно отобрать в новый список числа без повторов. 
 ```
-def No_Duplicates(arr):
+def no_duplicates(arr):
     return list(set(arr))
 ```
 ##18
 Отобрать из списка только уникальные элементы.
+```
+def unique_elements(arr):
+    status = {}
+    for n in arr:
+        if n in status.keys():
+            status[n] += 1
+        else:
+            status[n] = 1
+    return [n for n in status if status[n] == 1]
+
+
+x = [1, 2, 2, 2, 3, 3, 4, 4, 5, 6, 7, 8, 9, 10, 10]
+print(unique_elements(x))
+```
 ##19
-Отобрать из списка неуникальные элементы. 
+Отобрать из списка неуникальные элементы.
+```
+def non_unique_elements(arr):
+    status = {}
+    for n in arr:
+        if n in status.keys():
+            status[n] += 1
+        else:
+            status[n] = 1
+    return [n for n in status if status[n] > 1]
+
+
+x = [1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 5, 6, 7, 8, 9, 10, 10]
+print(non_unique_elements(x))
+```
 ##20
 Из массива (списка), содержащего 100 элементов выбрать 20 элементов в случайных неповторяющихся позициях. Переместить выбранные элементы в начало массива, обменяв их местами с имеющимися там.
 ##21
