@@ -170,5 +170,21 @@ print(c)
 В двумерно массиве найти столбец, сумма элементов которого максимальна. Вычесть элементы этого столбца из соответствующих элементов остальных столбцов. Распечатать массив.
 ##29
 Отсортировать двумерный массив алгоритмом пузырька.
+```
+from random import randint
+
+
+def bubble_sorting(arr):
+    for i in range(len(arr)-1, 0, -1):
+        for j in range(i):
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+    return arr
+
+data = [randint(1, 100) for i in range(10)]
+print(data)
+print(bubble_sorting(data))
+
+```
 ##30
 Отсортировать двумерный массив алгоритмом выбора
