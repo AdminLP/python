@@ -133,6 +133,14 @@ def list_merge(lst1, lst2):
     return lst1
 ```
 
+или
+
+```
+def Joining_Of_Lists(a,b):
+    a.extend(b)
+    return a
+```
+
 ## 15
 
 Есть список чисел. Необходимо получить список из квадратов этих чисел.
