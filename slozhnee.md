@@ -184,7 +184,45 @@ def bubble_sorting(arr):
 data = [randint(1, 100) for i in range(10)]
 print(data)
 print(bubble_sorting(data))
-
 ```
 ##30
 Отсортировать двумерный массив алгоритмом выбора
+```
+# Сортировка выбором минимума
+
+from random import randint
+
+def Selection_Sorting(arr):
+    l = len(arr)
+    for i in range(l-1):
+        min_index = i
+        for j in range(i+1,l):
+            if arr[j] < arr[min_index]:
+                min_index = j
+        arr[i], arr[min_index] = arr[min_index], arr[i]
+    return arr
+
+data = [randint(1,100) for i in range(10)]
+print(data)
+print(Selection_Sorting(data))
+```
+
+```
+# Сортировка выбором максимума
+
+from random import randint
+
+def Selection_Sorting(arr):
+    l = len(arr)
+    for i in range(l-1,0,-1):
+        max_index = i
+        for j in range(i+1):
+            if arr[j] > arr[max_index]:
+                max_index = j
+        arr[i], arr[max_index] = arr[max_index], arr[i]
+    return arr
+
+data = [randint(1,100) for i in range(10)]
+print(data)
+print(Selection_Sorting(data))
+```
