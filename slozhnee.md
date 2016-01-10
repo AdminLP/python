@@ -151,6 +151,21 @@ print(counter)
 ```
 ##27
 Сгенерировать два случайных двумерных массива одинакового размера. Перемножить элементы в соответствующих позициях и результат записать в третий
+```
+from random import randint
+
+row = int(input("Enter number of strings: "))
+col = int(input("Enter number of columns: "))
+
+a = [[randint(1, 100) for j in range(col)] for i in range(row)]
+print(a)
+
+b = [[randint(1, 100) for j in range(col)] for i in range(row)]
+print(b)
+
+c = [[a[i][j]*b[i][j] for j in range(col)] for i in range(row)]
+print(c)
+```
 ##28
 В двумерно массиве найти столбец, сумма элементов которого максимальна. Вычесть элементы этого столбца из соответствующих элементов остальных столбцов. Распечатать массив.
 ##29
