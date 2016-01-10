@@ -38,6 +38,16 @@ for number in range(1000):
     str1 += str(randint(1, 9)) + '+'
 str1 = str1[:-1]
 ```
+или
+```
+from random import randint # Подключаем модуль для случайных чисел
+
+# Нужно будет указать диапазон, из которого будут выбираться случайные числа
+result = [str(randint(0,100)) for i in range(10)] # Воспользуемся генератором
+
+print("+".join(result)) # Функция join = слияние элементов по разделителю
+# Эта функция работает для строк - поэтому в генераторе использована функция str()
+```
 
 ## 5
 
@@ -46,6 +56,13 @@ str1 = str1[:-1]
 int_lst = [1, 2, 6, 8, 3, 5]
 int_lst.reverse()
 print(max(int_lst))
+```
+
+или
+```
+def Right_Max(arr):
+    result = max(arr[len(arr)//2::])
+    return result
 ```
 
 ## 6
@@ -58,7 +75,15 @@ for number in int_lst:
     if number % 2 == 0:
         counter += 1
 print(counter)
+```
 
+или
+
+```
+def Even_Number(arr):
+    is_even = [1 for i in arr if i%2==0]
+    number = sum(is_even)
+    return number
 ```
 
 ## 7
