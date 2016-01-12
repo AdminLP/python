@@ -14,7 +14,7 @@
        * [Рекурсия.](rekursiya.md)
        * [Что такое json. Для чего используют json.](chto_takoe_json_dlya_chego_ispolzuyut_json.md)
    * [Сложные](slozhnie.md)
-       * Генераторы, примеры, назначение.
+       * [Генераторы, примеры, назначение.](generatori,_primeri,_naznachenie.md)
        * [Итераторы. Зачем нужны](iteratori_zachem_nuzhni.md)
 * [Алгоритмы и структуры данных](chapter2.md)
 * [Практика](praktika.md)
