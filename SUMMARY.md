@@ -21,7 +21,7 @@
        * [Наследование, примеры, назначение](nasledovanie,_primeri,_naznachenie.md)
        * [Полиморфизм, примеры, назначение](polimorfizm,_primeri,_naznachenie.md)
        * Преимущества итераторов перед генераторами
-       * Способы создания итераторов
+       * [Способы создания итераторов](sposobi_sozdaniya_iteratorov.md)
        * [Изменяемые и неизменяемые типы](izmenyaemie_i_neizmenyaemie_tipi.md)
        * [Что такое исключения, примеры, назначение](chto_takoe_isklyucheniya,_primeri,_naznachenie.md)
 * [Алгоритмы и структуры данных](chapter2.md)
