@@ -20,7 +20,7 @@
        * [Что такое set, примеры, назначение](chto_takoe_set,_primeri,_naznachenie.md)
        * [Наследование, примеры, назначение](nasledovanie,_primeri,_naznachenie.md)
        * [Полиморфизм, примеры, назначение](polimorfizm,_primeri,_naznachenie.md)
-       * Преимущества итераторов перед генераторами
+       * [Преимущества итераторов перед генераторами](preimuschestva_iteratorov_pered_generatorami.md)
        * [Способы создания итераторов](sposobi_sozdaniya_iteratorov.md)
        * [Изменяемые и неизменяемые типы](izmenyaemie_i_neizmenyaemie_tipi.md)
        * [Что такое исключения, примеры, назначение](chto_takoe_isklyucheniya,_primeri,_naznachenie.md)
