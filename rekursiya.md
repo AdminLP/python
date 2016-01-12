@@ -12,3 +12,4 @@ def factorial(n):
     else:
         return n * factorial(n - 1)
 ```
+[Видосик](http://www.youtube.com/watch?time_continue=17&v=5wm1eJP4JeU)
