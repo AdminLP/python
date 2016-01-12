@@ -16,7 +16,7 @@
    * [Сложные](slozhnie.md)
        * [Генераторы, примеры, назначение.](generatori,_primeri,_naznachenie.md)
        * [Итераторы. Зачем нужны](iteratori_zachem_nuzhni.md)
-       * Что такое кортеж, примеры, назначение
+       * [Что такое кортеж, примеры, назначение](chto_takoe_kortezh,_primeri,_naznachenie.md)
 * [Алгоритмы и структуры данных](chapter2.md)
 * [Практика](praktika.md)
    * [Простые](practic_prostie.md)
