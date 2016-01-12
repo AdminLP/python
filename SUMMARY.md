@@ -15,6 +15,7 @@
        * [Что такое json. Для чего используют json.](chto_takoe_json_dlya_chego_ispolzuyut_json.md)
    * [Сложные](slozhnie.md)
        * Генераторы, примеры, назначение.
+       * Итераторы. Зачем нужны
 * [Алгоритмы и структуры данных](chapter2.md)
 * [Практика](praktika.md)
    * [Простые](practic_prostie.md)
