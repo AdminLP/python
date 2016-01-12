@@ -20,3 +20,25 @@ def getSimple(state=[]):
         return " " testIt2 = iter(getSimple, None)
     print [x for x in testIt2]
 ```
+Пример основан на том, что в Python при отсутствии явного возвращения значения из функции возвращается значение None. 
+
+Предположим, что нам нужно сделать объект, который берет данные из строк очень большого файла. Данные нужны порциями, которые записаны в строках текстового файла, одна порция, одна строка. Обрабатывать нужно в цикле "for...in"
+
+Создаем такой класс:
+
+```
+class SimpleIterator(object):
+
+    def __init__(self,fname):
+        self.fd = open(fname,'r')
+    def __iter__(self):
+        return self
+        
+    def next(self):
+        l = self.fd.readline()
+            if l != '':
+12             l = l.rstrip('\n')
+13             num = int(l)
+14             return num*2
+15         raise StopIteration
+```
