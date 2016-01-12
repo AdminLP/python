@@ -73,15 +73,3 @@ ValueError: invalid literal for int() with base 10: 'qwerty'
 Это не число. Выходим.
 Я закрыл файл.
 ```
-
-
-```
-try: 
-  function()
-except Error:
-  # Если не сработал try и объявлена ошибка Error
-else:
-  # Если сработал try и не сработал except
-finally:
-  # Выполняется в любом случае
-```
