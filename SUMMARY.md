@@ -19,7 +19,7 @@
        * [Что такое кортеж, примеры, назначение](chto_takoe_kortezh,_primeri,_naznachenie.md)
        * [Что такое set, примеры, назначение](chto_takoe_set,_primeri,_naznachenie.md)
        * [Наследование, примеры, назначение](nasledovanie,_primeri,_naznachenie.md)
-       * Полиморфизм, примеры, назначение
+       * [Полиморфизм, примеры, назначение](polimorfizm,_primeri,_naznachenie.md)
        * Преимущества итераторов перед генераторами
        * Способы создания итераторов
        * Изменяемые и неизменяемые типы
