@@ -27,6 +27,7 @@
 * [Алгоритмы и структуры данных](chapter2.md)
    * [Общее понятие массива. Представление массива. Примеры.](obschee_ponyatie_massiva_predstavlenie_massiva_pri.md)
    * [Понятие очереди, принципы работы, примеры использование, временные сложности операций.](ponyatie_ocheredi,_printsipi_raboti,_primeri_ispol.md)
+   * Понятие стека, принципы работы, примеры использование, временные сложности операций
 * [Практика](praktika.md)
    * [Простые](practic_prostie.md)
    * [Сложнее](slozhnee.md)
