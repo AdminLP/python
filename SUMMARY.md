@@ -25,7 +25,7 @@
        * [Изменяемые и неизменяемые типы](izmenyaemie_i_neizmenyaemie_tipi.md)
        * [Что такое исключения, примеры, назначение](chto_takoe_isklyucheniya,_primeri,_naznachenie.md)
 * [Алгоритмы и структуры данных](chapter2.md)
-   * Общее понятие массива. Представление массива. Примеры.
+   * [Общее понятие массива. Представление массива. Примеры.](obschee_ponyatie_massiva_predstavlenie_massiva_pri.md)
    * Понятие очереди, принципы работы, примеры использование, временные сложности операций.
 * [Практика](praktika.md)
    * [Простые](practic_prostie.md)
