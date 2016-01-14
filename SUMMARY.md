@@ -28,7 +28,7 @@
    * [Общее понятие массива. Представление массива. Примеры.](obschee_ponyatie_massiva_predstavlenie_massiva_pri.md)
    * [Понятие очереди, принципы работы, примеры использование, временные сложности операций.](ponyatie_ocheredi,_printsipi_raboti,_primeri_ispol.md)
    * [Понятие стека, принципы работы, примеры использование, временные сложности операций](ponyatie_steka,_printsipi_raboti,_primeri_ispolzov.md)
-   * Как осуществляется операция доступа к элементу массива. Временная сложность операции
+   * [Как осуществляется операция доступа к элементу массива. Временная сложность операции](kak_osuschestvlyaetsya_operatsiya_dostupa_k_elemen.md)
    * Понятие временной сложности алгоритмов. Назначение, примеры, графическое представление
    * [Линейный поиск в массиве. Временная сложность](lineinii_poisk_v_massive_vremennaya_slozhnost.md)
    * [Поиск минимального элемента в массиве. Временная сложность](poisk_minimalnogo_elementa_v_massive_vremennaya_sl.md)
