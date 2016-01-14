@@ -34,7 +34,7 @@
    * [Поиск минимального элемента в массиве. Временная сложность](poisk_minimalnogo_elementa_v_massive_vremennaya_sl.md)
    * [Линейный поиск в двумерном массиве. Временная сложность](lineinii_poisk_v_dvumernom_massive_vremennaya_sloz.md)
    * [Алгоритм бинарного поиска. Временная сложность](algoritm_binarnogo_poiska_vremennaya_slozhnost.md)
-   * Поиск подстроки. Линейный алгоритм. Временная сложность
+   * [Поиск подстроки. Линейный алгоритм. Временная сложность](poisk_podstroki_lineinii_algoritm_vremennaya_slozh.md)
 * [Практика](praktika.md)
    * [Простые](practic_prostie.md)
    * [Сложнее](slozhnee.md)
