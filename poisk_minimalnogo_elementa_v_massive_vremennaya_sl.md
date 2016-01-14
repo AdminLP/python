@@ -2,7 +2,7 @@
 
 Временная сложность n.
 
-[Видео](http://www.youtube.com/watch?time_continue=264&v=BXxYbLE09n4)
+[Видео](http://www.youtube.com/watch?v=BXxYbLE09n4)
 
 Реализация:
 
