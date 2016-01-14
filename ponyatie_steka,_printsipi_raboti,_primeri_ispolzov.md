@@ -4,10 +4,25 @@
 
 Операции над текстовыми строками часто выполняются с использованием стеков.
 
+
 Пример реализации стека:
 
+```
 stack = []
 
 
-def push(stack, val):
-    stack.append(val)
+def push(s, val):
+    s.append(val)
+
+
+def pop(s):
+    return s[len(s) - 1]
+    
+
+push(stack, 1)
+push(stack, 2)
+push(stack, 3)
+push(stack, 4)
+pop(stack) //Вернет 4
+pop(stack) //Вернет 3
+```
