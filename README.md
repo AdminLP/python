@@ -1,7 +1,5 @@
 # Полезные ссылки
 
-## Полезные ссылки
-
 [https://www.codecademy.com/learn/python](https://www.codecademy.com/learn/python)
 
 [http://pythonworld.ru/](http://pythonworld.ru/)
