@@ -1,13 +1,12 @@
-Вопросы
-=======
-На «Удовлетворительно» ответить половину вопросов в билете.
-<img src="w3lCY3YQfxs.jpg" width="342" height="384">
+# Полезные ссылки
 
 ## Полезные ссылки
-https://www.codecademy.com/learn/python
 
-http://pythonworld.ru/
+[https://www.codecademy.com/learn/python](https://www.codecademy.com/learn/python)
 
-http://habrahabr.ru/hub/python/
+[http://pythonworld.ru/](http://pythonworld.ru/)
 
-http://pythontutor.ru/
+[http://habrahabr.ru/hub/python/](http://habrahabr.ru/hub/python/)
+
+[http://pythontutor.ru/](http://pythontutor.ru/)
+
